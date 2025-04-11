@@ -49,7 +49,7 @@ npm start
 ```bash
 cd client
 npm install
-npm start
+npm run dev
 ```
 
 > 🟢 Frontend will run on `http://localhost:5173`
